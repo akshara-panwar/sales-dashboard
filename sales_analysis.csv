@@ -1,0 +1,51 @@
+Date,Product,Category,Quantity,Price
+2026-01-01,Laptop,Electronics,2,55000
+2026-01-01,Mouse,Electronics,5,700
+2026-01-02,Keyboard,Electronics,3,1200
+2026-01-02,Chair,Furniture,2,4500
+2026-01-03,Desk,Furniture,1,8500
+2026-01-03,Notebook,Stationery,10,50
+2026-01-04,Pen,Stationery,20,15
+2026-01-04,Monitor,Electronics,2,12000
+2026-01-05,Printer,Electronics,1,15000
+2026-01-05,Sofa,Furniture,1,25000
+2026-01-06,Table,Furniture,2,7000
+2026-01-06,Bag,Accessories,4,1200
+2026-01-07,Water Bottle,Accessories,6,300
+2026-01-07,Headphones,Electronics,3,2500
+2026-01-08,Mobile Phone,Electronics,2,30000
+2026-01-08,Book,Stationery,8,250
+2026-01-09,Lamp,Furniture,3,1800
+2026-01-09,Calculator,Stationery,4,500
+2026-01-10,Tablet,Electronics,2,22000
+2026-01-10,Shoes,Fashion,3,2500
+2026-01-11,T-Shirt,Fashion,5,700
+2026-01-11,Jeans,Fashion,4,1500
+2026-01-12,Watch,Accessories,2,3500
+2026-01-12,Speaker,Electronics,3,4000
+2026-01-13,Camera,Electronics,1,45000
+2026-01-13,Curtains,Furniture,2,2000
+2026-01-14,Fan,Electronics,2,2800
+2026-01-14,Router,Electronics,3,1800
+2026-01-15,Stapler,Stationery,6,120
+2026-01-15,Whiteboard,Stationery,1,2500
+2026-01-16,Backpack,Accessories,3,1500
+2026-01-16,Dining Table,Furniture,1,18000
+2026-01-17,Smart Watch,Electronics,2,8000
+2026-01-17,Notebook,Stationery,12,55
+2026-01-18,Pen Drive,Electronics,5,900
+2026-01-18,Office Chair,Furniture,2,6500
+2026-01-19,Mouse Pad,Accessories,7,250
+2026-01-19,Jacket,Fashion,2,3200
+2026-01-20,LED TV,Electronics,1,42000
+2026-01-20,Coffee Mug,Accessories,6,350
+2026-01-21,Bookshelf,Furniture,1,9500
+2026-01-21,Scissors,Stationery,5,80
+2026-01-22,Air Conditioner,Electronics,1,38000
+2026-01-22,Sunglasses,Fashion,3,1800
+2026-01-23,Printer Paper,Stationery,10,250
+2026-01-23,Gaming Keyboard,Electronics,2,3500
+2026-01-24,Bed,Furniture,1,28000
+2026-01-24,Cap,Fashion,4,500
+2026-01-25,Earbuds,Electronics,3,2200
+2026-01-25,Travel Bag,Accessories,2,2800
